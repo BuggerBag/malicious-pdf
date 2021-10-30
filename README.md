@@ -30,3 +30,5 @@ Do not use the https:// etc prefix on the url argument.
 - ["Portable Document Flaws 101" talk at Black Hat USA 2020](https://github.com/RUB-NDS/PDF101)
 - [Adobe Reader - PDF callback via XSLT stylesheet in XFA](https://insert-script.blogspot.com/2019/01/adobe-reader-pdf-callback-via-xslt.html)
 - [Foxit PDF Reader PoC, DoHyun Lee](https://twitter.com/l33d0hyun/status/1448342241647366152)
+
+## this project is mother of hooking. many worm can be used this library in real scenario (from malware lab).
